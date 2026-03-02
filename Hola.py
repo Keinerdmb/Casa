@@ -81,7 +81,7 @@ def menu():
     elif opcion == "0":
         print("¡Gracias por usar la calculadora!")
         break
-           
+        Salir =True
     else:
         print("Opción no válida. Por favor, seleccione una opción del menú.")
 
